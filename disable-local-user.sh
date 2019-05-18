@@ -3,10 +3,10 @@
 #Javi Ubeda i Jefry Montalvan
 
 #Variables
-nom_script=$0
 id_usuari_execucio=`id -u`
-CERT=1
+nom_script=$0
 FALS=0
+CERT=1
 
 #Funcio que mostrara l'us bàsic del programa quan no rebi parametres o quan el parametre sigui diferent a (d,r,a)
 us (){
